@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767539963591",
+    "project_id": "whatsben-cdb8c",
+    "storage_bucket": "whatsben-cdb8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767539963591:android:6ff4f3d8596b97084400e2",
+        "android_client_info": {
+          "package_name": "com.example.whatsben"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYt6kbOcwI24gCP8nN5F_Jmz-M3doUiV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
